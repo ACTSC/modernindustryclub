@@ -61,3 +61,8 @@
 ## Проекти клубу
 
 Проекти клубу доступні [за посиланням](https://github.com/ACTSC/modernindustryclub/issues/1) 
+
+## Відео засідань
+
+[1 Вступне засідання 01.12.23](https://youtu.be/kapseZgEi40)
+
