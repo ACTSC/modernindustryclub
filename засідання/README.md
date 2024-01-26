@@ -12,3 +12,5 @@
 ## Записи
 
 - [1 Вступне засідання 01.12.23](https://youtu.be/kapseZgEi40)
+- [2 Засідання 08.12.23](https://youtu.be/Sez1G2iIsyA)
+- [3 Засідання 26.01.24](https://youtu.be/9TH1eGRix7o)
